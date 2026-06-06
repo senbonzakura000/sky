@@ -3,9 +3,9 @@
     "channel_name": "Sky Sport 3",
     "channel_id": "354",
     "live_event_id": "219028",
-    "stream_url": "https://dice-live-oc.akamaized.net/v1/dash/8c52068f1f8b0220b91a8d97bb4147167032776b/prod-skynz-mediatailor-config-via-sdk/dash/live/2093744/219028-322455/manifest-d.mpd?aws.sessionId=75c04519-da25-4bcd-8799-21e742c4fdb4&hdnea=st=1780739784~exp=1780739824~acl=*dash/live/2093744/219028-322455/*!*dash/live/2093744-b/219028-322455-b/*~id=85bf3a32-2519-4ce3-8469-c3ea6787b98b~data=dWlkPVlhVXR0QnwwNjg2YTFmZi0yZjAxLTQzMmEtYmE4Zi0xNGU5ZTEwMjhmYTYmaXA9ODUuMjguNTQuOTUmZXhwPTE3ODA4MjYyMjQmZWlkPTIxOTAyOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=fde062337b87b0614eeed7f0f2cee06babbbe24c9d390944efe78bd0a18d37d0&opId=318&cc=NZ&ua=ZGNlLWxpdmVzdHJlYW1pbmctZGdlLXJlc3QtY2xpZW50&epgeid=219028&startTime=1656360000&endTime=1893416340&mthost=abe10b44cd4544f59a6aa8ce5c21171d&region=ap-southeast-2",
+    "stream_url": "https://dice-live-oc.akamaized.net/v1/manifest/8c52068f1f8b0220b91a8d97bb4147167032776b/prod-skynz-mediatailor-config-via-sdk/451573f2-858e-4d2b-81b9-1feaddd2d322/1.m3u8?hdntl=exp=1780788279~acl=*cmaf%2flive%2f2108084%2f219028-322455%2f*!*cmaf%2flive%2f2108084-b%2f219028-322455-b%2f*!%2fv1%2fmanifest%2f*!%2fv1%2fsegment%2f*~id=1e64e355-240a-4bc9-989c-fc3a3d235b86~data=hdntl,dWlkPXJVekFEWHxjNjZkN2RhNC1jMjk0LTQ2YjEtOTU4Zi1hZDVlYzkyNmU0ZGQmaXA9ODUuMjguNTQuOTUmZXhwPTE3ODA4NjAzMDcmZWlkPTIxOTAyOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=c0c51b62a0334366257bb893649c74db2a27f2d1625f2e02d93d81a966a15fa0&mthost=abe10b44cd4544f59a6aa8ce5c21171d&region=ap-southeast-2&aws.sessionId=451573f2-858e-4d2b-81b9-1feaddd2d322",
     "stream_keys": "",
-    "hdntl": "",
-    "hdntl_token": ""
+    "hdntl": "hdntl=exp=1780788279~acl=*cmaf/live/2108084/219028-322455/*!*cmaf/live/2108084-b/219028-322455-b/*!/v1/manifest/*!/v1/segment/*~id=1e64e355-240a-4bc9-989c-fc3a3d235b86~data=hdntl,dWlkPXJVekFEWHxjNjZkN2RhNC1jMjk0LTQ2YjEtOTU4Zi1hZDVlYzkyNmU0ZGQmaXA9ODUuMjguNTQuOTUmZXhwPTE3ODA4NjAzMDcmZWlkPTIxOTAyOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=c0c51b62a0334366257bb893649c74db2a27f2d1625f2e02d93d81a966a15fa0",
+    "hdntl_token": "exp=1780788279~acl=*cmaf/live/2108084/219028-322455/*!*cmaf/live/2108084-b/219028-322455-b/*!/v1/manifest/*!/v1/segment/*~id=1e64e355-240a-4bc9-989c-fc3a3d235b86~data=hdntl,dWlkPXJVekFEWHxjNjZkN2RhNC1jMjk0LTQ2YjEtOTU4Zi1hZDVlYzkyNmU0ZGQmaXA9ODUuMjguNTQuOTUmZXhwPTE3ODA4NjAzMDcmZWlkPTIxOTAyOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=c0c51b62a0334366257bb893649c74db2a27f2d1625f2e02d93d81a966a15fa0"
   }
 ]
