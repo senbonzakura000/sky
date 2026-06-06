@@ -1,11 +1,11 @@
 [
   {
-    "channel_name": "Sky Sport 3",
-    "channel_id": "354",
-    "live_event_id": "219028",
-    "stream_url": "https://dice-live-oc.akamaized.net/v1/manifest/8c52068f1f8b0220b91a8d97bb4147167032776b/prod-skynz-mediatailor-config-via-sdk/451573f2-858e-4d2b-81b9-1feaddd2d322/1.m3u8?hdntl=exp=1780788279~acl=*cmaf%2flive%2f2108084%2f219028-322455%2f*!*cmaf%2flive%2f2108084-b%2f219028-322455-b%2f*!%2fv1%2fmanifest%2f*!%2fv1%2fsegment%2f*~id=1e64e355-240a-4bc9-989c-fc3a3d235b86~data=hdntl,dWlkPXJVekFEWHxjNjZkN2RhNC1jMjk0LTQ2YjEtOTU4Zi1hZDVlYzkyNmU0ZGQmaXA9ODUuMjguNTQuOTUmZXhwPTE3ODA4NjAzMDcmZWlkPTIxOTAyOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=c0c51b62a0334366257bb893649c74db2a27f2d1625f2e02d93d81a966a15fa0&mthost=abe10b44cd4544f59a6aa8ce5c21171d&region=ap-southeast-2&aws.sessionId=451573f2-858e-4d2b-81b9-1feaddd2d322",
+    "channel_name": "Sky Sport 1 UHD",
+    "channel_id": "1412",
+    "live_event_id": "302359",
+    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1780793673~acl=*dash%2flive%2f2093755%2f302359-322470%2f*!*dash%2flive%2f2093755-b%2f302359-322470-b%2f*!%2fv1%2fdashsegment%2f*~id=3cfd1283-077d-40a5-a48a-f43b41a75fcd~data=hdntl,dWlkPUg3d0g0OXw1YzRmMTNiZS05YmIwLTRiMTUtYTUyYy03Y2Q0NjlmMDk5ODkmaXA9ODUuMjguNTQuOTUmZXhwPTE3ODA4NjU3MDEmZWlkPTMwMjM1OSZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=925725a1df336120087b61be783f01de2675f2f27149cdca5cef0a29c637c97a/dash/live/2093755/302359-322470/manifest-d.mpd",
     "stream_keys": "",
-    "hdntl": "hdntl=exp=1780788279~acl=*cmaf/live/2108084/219028-322455/*!*cmaf/live/2108084-b/219028-322455-b/*!/v1/manifest/*!/v1/segment/*~id=1e64e355-240a-4bc9-989c-fc3a3d235b86~data=hdntl,dWlkPXJVekFEWHxjNjZkN2RhNC1jMjk0LTQ2YjEtOTU4Zi1hZDVlYzkyNmU0ZGQmaXA9ODUuMjguNTQuOTUmZXhwPTE3ODA4NjAzMDcmZWlkPTIxOTAyOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=c0c51b62a0334366257bb893649c74db2a27f2d1625f2e02d93d81a966a15fa0",
-    "hdntl_token": "exp=1780788279~acl=*cmaf/live/2108084/219028-322455/*!*cmaf/live/2108084-b/219028-322455-b/*!/v1/manifest/*!/v1/segment/*~id=1e64e355-240a-4bc9-989c-fc3a3d235b86~data=hdntl,dWlkPXJVekFEWHxjNjZkN2RhNC1jMjk0LTQ2YjEtOTU4Zi1hZDVlYzkyNmU0ZGQmaXA9ODUuMjguNTQuOTUmZXhwPTE3ODA4NjAzMDcmZWlkPTIxOTAyOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=c0c51b62a0334366257bb893649c74db2a27f2d1625f2e02d93d81a966a15fa0"
+    "hdntl": "hdntl=exp=1780793673~acl=*dash%2flive%2f2093755%2f302359-322470%2f*!*dash%2flive%2f2093755-b%2f302359-322470-b%2f*!%2fv1%2fdashsegment%2f*~id=3cfd1283-077d-40a5-a48a-f43b41a75fcd~data=hdntl,dWlkPUg3d0g0OXw1YzRmMTNiZS05YmIwLTRiMTUtYTUyYy03Y2Q0NjlmMDk5ODkmaXA9ODUuMjguNTQuOTUmZXhwPTE3ODA4NjU3MDEmZWlkPTMwMjM1OSZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=925725a1df336120087b61be783f01de2675f2f27149cdca5cef0a29c637c97a",
+    "hdntl_token": "exp=1780793673~acl=*dash%2flive%2f2093755%2f302359-322470%2f*!*dash%2flive%2f2093755-b%2f302359-322470-b%2f*!%2fv1%2fdashsegment%2f*~id=3cfd1283-077d-40a5-a48a-f43b41a75fcd~data=hdntl,dWlkPUg3d0g0OXw1YzRmMTNiZS05YmIwLTRiMTUtYTUyYy03Y2Q0NjlmMDk5ODkmaXA9ODUuMjguNTQuOTUmZXhwPTE3ODA4NjU3MDEmZWlkPTMwMjM1OSZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=925725a1df336120087b61be783f01de2675f2f27149cdca5cef0a29c637c97a"
   }
 ]
