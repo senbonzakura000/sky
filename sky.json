@@ -3,7 +3,7 @@
     "channel_name": "Sky Sport 3",
     "channel_id": "354",
     "live_event_id": "219028",
-    "stream_url": "https://dice-live-oc.akamaized.net/v1/dash/8c52068f1f8b0220b91a8d97bb4147167032776b/prod-skynz-mediatailor-config-via-sdk/dash/live/2093744/219028-322455/manifest-d.mpd?aws.sessionId=a2a55c86-14f4-41e9-a3d6-d1f1865cdb61&hdnea=st=1780738691~exp=1780738731~acl=*dash/live/2093744/219028-322455/*!*dash/live/2093744-b/219028-322455-b/*~id=98c7808f-82d3-4068-a66b-0ed2ec4c25b3~data=dWlkPWY3RVJaWnwxNjg2YzEwNC04MTc3LTQ1OGItOWEyYi00YjA2MTE1MmI0MDEmaXA9ODUuMjguNTQuOTUmZXhwPTE3ODA4MjUxMzEmZWlkPTIxOTAyOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=e86665517913354ecf91f1ccce995991205dbb2a8e97bc81a87da33593edc8fb&opId=318&cc=NZ&ua=ZGNlLWxpdmVzdHJlYW1pbmctZGdlLXJlc3QtY2xpZW50&epgeid=219028&startTime=1656360000&endTime=1893416340&mthost=abe10b44cd4544f59a6aa8ce5c21171d&region=ap-southeast-2",
+    "stream_url": "https://dice-live-oc.akamaized.net/v1/dash/8c52068f1f8b0220b91a8d97bb4147167032776b/prod-skynz-mediatailor-config-via-sdk/dash/live/2093744/219028-322455/manifest-d.mpd?aws.sessionId=6f99df23-8e11-44c4-a6b9-50f04e333bb4&hdnea=st=1780738829~exp=1780738869~acl=*dash/live/2093744/219028-322455/*!*dash/live/2093744-b/219028-322455-b/*~id=2f135739-f4c9-48a3-90da-75aa8a4af04b~data=dWlkPXJVekFEWHxjNjZkN2RhNC1jMjk0LTQ2YjEtOTU4Zi1hZDVlYzkyNmU0ZGQmaXA9ODUuMjguNTQuOTUmZXhwPTE3ODA4MjUyNjkmZWlkPTIxOTAyOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=fc4ae9ec1c8495e6af4b88d34c2476284b7e930e8ef0dba0283e530fa36103b3&opId=318&cc=NZ&ua=ZGNlLWxpdmVzdHJlYW1pbmctZGdlLXJlc3QtY2xpZW50&epgeid=219028&startTime=1656360000&endTime=1893416340&mthost=abe10b44cd4544f59a6aa8ce5c21171d&region=ap-southeast-2",
     "stream_keys": "",
     "hdntl": "",
     "hdntl_token": ""
